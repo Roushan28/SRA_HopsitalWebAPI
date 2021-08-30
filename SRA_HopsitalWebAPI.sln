@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRA_HopsitalWebAPI", "SRA_HopsitalWebAPI\SRA_HopsitalWebAPI.csproj", "{8EBD5C55-56FF-4018-893B-2ACA329A0A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBD5C55-56FF-4018-893B-2ACA329A0A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBD5C55-56FF-4018-893B-2ACA329A0A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBD5C55-56FF-4018-893B-2ACA329A0A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBD5C55-56FF-4018-893B-2ACA329A0A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FD9BCE-EFC7-44DB-8529-361088E8B4C5}
+	EndGlobalSection
+EndGlobal
